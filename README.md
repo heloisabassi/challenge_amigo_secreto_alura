@@ -11,3 +11,6 @@ Tecnologias Usadas:
 - **HTML**: Estrutura básica da página.
 - **CSS**: Estilos para a interface da aplicação.
 - **JavaScript**: Lógica para adicionar nomes à lista e realizar o sorteio aleatório.
+
+Acesse o projeto completo:
+https://challenge-amigo-secreto-alura.vercel.app/
